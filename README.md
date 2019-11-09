@@ -10,15 +10,7 @@ PeterZZ4609 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://note.peterzhang.top/my-github-repos)
-* [Windows注册表功能笔记](http://note.peterzhang.top/articles/2019/11/09/1573303054731.html)
-* [cmd常用命令](http://note.peterzhang.top/articles/2019/11/09/1573303054147.html)
-* [VBox安装MacOS](http://note.peterzhang.top/articles/2019/11/09/1573303053929.html)
-* [Windows系统文件列表](http://note.peterzhang.top/articles/2019/11/09/1573303053486.html)
-* [Windows运行命令](http://note.peterzhang.top/articles/2019/11/09/1573303052924.html)
-* [Windows轻松使用](http://note.peterzhang.top/articles/2019/11/09/1573303052699.html)
-* [新建菜单的顺序](http://note.peterzhang.top/articles/2019/11/09/1573303052119.html)
-* [世界，你好！](http://note.peterzhang.top/hello-solo)
+* [世界，你好！](https://solo.peterzhang.top/hello-solo)
 
 
 
