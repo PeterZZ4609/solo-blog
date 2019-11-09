@@ -10,6 +10,15 @@ PeterZZ4609 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://solo.peterzhang.top/my-github-repos)
+* [md-Blog 教程](https://solo.peterzhang.top/articles/2019/11/10/1573330410139.html)
+* [md-Blog 支付宝微信打赏功能的设置](https://solo.peterzhang.top/articles/2019/11/10/1573330409854.html)
+* [md-Blog 添加社会化评论-畅言评论功能](https://solo.peterzhang.top/articles/2019/11/10/1573330409632.html)
+* [md-Blog 码农专用 Fork me on Github 彩带设置](https://solo.peterzhang.top/articles/2019/11/10/1573330409350.html)
+* [常用 MarkDown 编辑器推荐](https://solo.peterzhang.top/articles/2019/11/10/1573330409078.html)
+* [md-Blog 数学公式和数学符号使用说明](https://solo.peterzhang.top/articles/2019/11/10/1573330408765.html)
+* [md-Blog 添加谷歌广告联盟 Google AdSense 的使用说明](https://solo.peterzhang.top/articles/2019/11/10/1573330408371.html)
+* [md-Blog 添加百度统计功能](https://solo.peterzhang.top/articles/2019/11/10/1573330408068.html)
 * [世界，你好！](https://solo.peterzhang.top/hello-solo)
 
 
