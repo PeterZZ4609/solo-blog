@@ -10,6 +10,7 @@ PeterZZ4609 的个人博客
 
 ### 最新
 
+* [Appium环境搭建](https://solo.peterzhang.top/articles/2019/11/10/1573334728704.html)
 * [我在 GitHub 上的开源项目](https://solo.peterzhang.top/my-github-repos)
 * [md-Blog 教程](https://solo.peterzhang.top/articles/2019/11/10/1573330410139.html)
 * [md-Blog 支付宝微信打赏功能的设置](https://solo.peterzhang.top/articles/2019/11/10/1573330409854.html)
