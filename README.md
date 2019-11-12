@@ -1,4 +1,4 @@
-<p align="center"><img alt="SDK Soft" src="https://pics.peterzhang.top/navicons/favicon2.png"></p><h2 align="center">
+<p align="center"><img alt="SDK Soft" src="https://static.peterzhang.top/navicons/favicon.png"></p><h2 align="center">
 SDK Soft
 </h2>
 
